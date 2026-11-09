@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Intermediate work / build outputs / wineprefixes (large binary scratch data)
+work/
+outputs/
+backup/
+*.log
+
+# Blender autosaves / backups
+*.blend1
+*.blend2
+*.blend@*
+
+# OS and editor artifacts
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+
+# Local codex / agent state
+.agents/
+.codex/
